@@ -6,3 +6,6 @@ class Component(Listener):
 
     def tick(self):
         pass
+
+    def showStatus(self, visitor):
+        pass
